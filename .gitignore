@@ -1,0 +1,6 @@
+.env
+vendor/
+storage/temp
+assets/img
+logs/
+*.sql
